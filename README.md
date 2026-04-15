@@ -6,7 +6,7 @@
 
 - Saat ini sedang berkuliah di Universitas Lambung Mangkurat dengan Jurusan Teknologi Informasi memasuki semester 2
 - Saya juga menjadi anggota dari divisi Kerohanian Himpunan Mahasiswa Teknologi Informasi
-- Hobi saya adalah mempelajari hal-hal baru, selain itu juga bermain game, rubik, dan membaca serta mendengarkan
+- Hobi saya adalah mempelajari hal-hal baru, selain itu juga bermain game, rubik, dan membaca serta mendengarkan musik
 
 ## 🛠️ Tech Stack
 
