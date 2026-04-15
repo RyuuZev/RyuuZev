@@ -15,9 +15,6 @@
 
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=spotify_id_kamu">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_id_kamu&cover_image=true&theme=compact&show_offline=false&background_color=0D1117&bar_color=2F81F7&bar_color_cover=true" />
-  </a>
 </div>
 
 
@@ -27,8 +24,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=namakamu&color=2F81F7&style=flat-square&label=Profile+Views" />
-    
+<div align="center">    
   Made  by Pasya
 </div>
